@@ -1,5 +1,6 @@
 # duckpower
-Tool for measuring electricity usage of duckdb
+Electrcity usage monitor for duckdb.
+
 
 This tool measures the electric usage of duckdb queries. This can be important when considering the usage of duckdb as a component in a low power environment or on an IOT device.
 
